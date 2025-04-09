@@ -39,7 +39,7 @@ Here are some things I've been working on:
 ## 🚀 Tech Stack & Tools
 
 ```text
-Languages    : Python, SQL, Bash
-Frameworks   : PyTorch, TensorFlow, FastAPI
-AI/ML        : LangChain, RLHF, Transformers
-Tools        : Git, Docker, Google Colab, Jupyter
+Languages    : C, C++, Java, Python, SQL, Bash, Shell Scripts in Linux
+Frameworks   : PyTorch, TensorFlow, FastAPI, Flask
+AI/ML        : LangChain, PyTorch, Transformers, CNN's, Regression Models, Vector DB's
+Tools        : Git, Docker, Google Colab, Jupyter, Vercel, Cassandra
