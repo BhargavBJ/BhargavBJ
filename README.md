@@ -31,7 +31,12 @@ Here are some things I've been working on:
   Working on a reinforcement-learning agent with real-world task planning and dataset integration
 
 ---
+## 🎯 Current Focus
+- 🔬 Research: RLHF-based agent optimization
+- 🏥 MedTech: LangFlow + Groq-powered assistant
+- 📈 Learning: Vector DBs, Chroma, LangGraph
 
+---
 ## 🚀 Tech Stack & Tools
 
 ```text
