@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Bhargav BJ</h1>
 <p align="center">
-  💻 AI & ML Enthusiast • 🚀 Project Builder • 🧠 Deep Learning Explorer
+  💻 AI & ML Enthusiast • 🚀 Project Builder • 🧠 Deep Learning Explorer • 🔬 ML Researcher
 </p>
 
 ---
@@ -32,7 +32,7 @@ Here are some things I've been working on:
 
 ---
 ## 🎯 Current Focus
-- 🔬 Research: RLHF-based agent optimization
+- 🔬 Research: RAG-based agent optimization
 - 🏥 MedTech: LangFlow + Groq-powered assistant
 - 📈 Learning: Vector DBs, Chroma, LangGraph
 
