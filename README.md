@@ -21,7 +21,7 @@ Here are some things I've been working on:
 
 - 🔍 **MNIST CNN Digit Classifier**  
   Trained a deep CNN on handwritten digits with custom image testing and evaluation  
-  [View project →](https://github.com/BhargavBJ/MNIST-CNN-Digit-Classifier)
+  [View project →](https://github.com/BhargavBJ/MNIST)
 
 - 🧬 **Coming Soon: Medical AI Assistant**  
   Building a LangFlow + Groq API-based assistant for personalized healthcare management  
