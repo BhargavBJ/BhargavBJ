@@ -32,7 +32,6 @@ Here are some things I've been working on:
 
 ---
 ## 🎯 Current Focus
-- 🔬 Research: RAG-based agent optimization
 - 🏥 MedTech: LangFlow + Groq-powered assistant
 - 📈 Learning: Vector DBs, Chroma, LangGraph
 
