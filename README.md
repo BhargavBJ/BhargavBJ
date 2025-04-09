@@ -37,5 +37,5 @@ Here are some things I've been working on:
 ```text
 Languages    : Python, SQL, Bash
 Frameworks   : PyTorch, TensorFlow, FastAPI
-AI/ML        : LangChain, RLHF, Transformers, OpenCV
+AI/ML        : LangChain, RLHF, Transformers
 Tools        : Git, Docker, Google Colab, Jupyter
