@@ -19,9 +19,9 @@
 
 Here are some things I've been working on:
 
-- 🔍 **MNIST CNN Digit Classifier**  
+- 🔍 **Classification-Of-CIFAR10-Dataset**  
   Trained a deep CNN on handwritten digits with custom image testing and evaluation  
-  [View project →](https://github.com/BhargavBJ/MNIST)
+  [View project →](https://https://github.com/BhargavBJ/Classification-Of-CIFAR10-Dataset)
 
 - 🧬 **Coming Soon: Medical AI Assistant**  
   Building a LangFlow + Groq API-based assistant for personalized healthcare management  
