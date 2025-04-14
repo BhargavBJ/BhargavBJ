@@ -24,7 +24,7 @@ Here are some things I've been working on:
   [View project →](https://https://github.com/BhargavBJ/Classification-Of-CIFAR10-Dataset)
 
 - 🧬 **Coming Soon: Medical AI Assistant**  
-  Building a LangFlow + Groq API-based assistant for personalized healthcare management  
+  Building a LangFlow + Gemini API-based assistant for personalized healthcare management  
   *(Features: patient data, reminders, recovery tracking, emergency alerting)*
 
 - 📚 **Research-focused AI Agents**  
@@ -32,8 +32,8 @@ Here are some things I've been working on:
 
 ---
 ## 🎯 Current Focus
-- 🏥 MedTech: LangFlow + Groq-powered assistant
-- 📈 Learning: Vector DBs, Chroma, LangGraph
+- 🏥 MedTech: LangFlow + Groq-powered assistant(or Gemini Powered Assistant)
+- 📈 Learning: Vector DBs, Chroma, LangGraph, PyTorch
 
 ---
 ## 🚀 Tech Stack & Tools
