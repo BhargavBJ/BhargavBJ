@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍🚀 About Me
 
 - 🎓 I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**
 - 🛠 I love building end-to-end projects — from dataset collection and training models to real-world deployment
