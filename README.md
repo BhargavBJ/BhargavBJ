@@ -20,7 +20,7 @@
 Here are some things I've been working on:
 
 - 🔍 **Classification-Of-CIFAR10-Dataset**  
-  Trained a deep CNN on handwritten digits with custom image testing and evaluation  
+  Trained a deep Convolutional Neural Network (CNN) on the CIFAR-10 image dataset, with support for custom image testing and performance evaluation. 
   [View project →](https://https://github.com/BhargavBJ/Classification-Of-CIFAR10-Dataset)
 
 - 🧬 **Coming Soon: Medical AI Assistant**  
