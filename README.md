@@ -7,7 +7,7 @@
 
 ## 🧑‍🚀 About Me
 
-- 🎓 I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**
+- 🎓 I'm passionate about **Artificial Intelligence**, **Machine Learning**,**Gen-AI Agents**, and **Computer Vision**
 - 🛠 I love building end-to-end projects — from dataset collection and training models to real-world deployment
 - 🌱 Currently exploring **LangChain**, **RAG**, and **AI agents**
 - 📊 I enjoy working with research-backed tools and frameworks — especially in healthcare & automation domains
