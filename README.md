@@ -24,7 +24,7 @@ Here are some things I've been working on:
   [View project →](https://https://github.com/BhargavBJ/Classification-Of-CIFAR10-Dataset)
 
 - 🧬 **Coming Soon: Medical AI Assistant**  
-  Building a LangFlow + Gemini API-based assistant for personalized healthcare management  
+  Building a LacgChain + Groq API-based assistant for personalized healthcare management  
   *(Features: patient data, reminders, recovery tracking, emergency alerting)*
 
 - 📚 **Research-focused AI Agents**  
