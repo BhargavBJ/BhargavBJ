@@ -28,6 +28,9 @@ Here are some of the exciting projects I've been working on:
 - 🧬 **[Skin-Cancer Detection](https://github.com/BhargavBJ/Skin-Cancer)**  
   Developed a CNN-based model for classifying pigmented skin lesions using the HAM10000 dataset. Useful for exploring medical AI and computer vision applications in healthcare.
 
+- 👁️ **[Eye Disease Classification](https://github.com/BhargavBJ/Eye-Disease-Classification)**  
+  Built a deep learning model to classify various eye diseases from retinal images. Helps in early detection and research for ophthalmology applications.
+
 - 🐍 **[Snake Game](https://github.com/BhargavBJ/SnakeGame)**  
   Classic Snake game implemented in HTML, CSS, and JavaScript. Includes score tracking and responsive controls.
 
@@ -45,8 +48,8 @@ Here are some of the exciting projects I've been working on:
 
 ## 🎯 Current Focus
 
-### 🏥 MedTech & Agentic AI
-Exploring **LangChain**, **Poetry**, and other agentic AI technologies to build intelligent assistants for healthcare, automation, and real-world problem-solving.
+### 🏥 Agentic AI
+Exploring **LangChain**, **Poetry**, **LLM agents**, **RAG (Retrieval-Augmented Generation)**, **Vector Databases**, **Chroma**, **LangGraph**, **Groq APIs**, **Gemini-powered agents**, **AI assistants**, and other agentic AI technologies for building intelligent, autonomous systems in healthcare, automation, and real-world applications.
 
 ### 📈 Learning & Exploration
 Diving deeper into **Deep Learning frameworks** like **PyTorch**, **Scikit-learn**, and **Keras** to strengthen AI/ML project development and research.
