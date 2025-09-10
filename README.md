@@ -7,39 +7,57 @@
 
 ## 🧑‍🚀 About Me
 
-- 🎓 I'm passionate about **Artificial Intelligence**, **Machine Learning**,**Gen-AI Agents**, and **Computer Vision**
-- 🛠 I love building end-to-end projects — from dataset collection and training models to real-world deployment
-- 🌱 Currently exploring **LangChain**, **RAG**, and **AI agents**
-- 📊 I enjoy working with research-backed tools and frameworks — especially in healthcare & automation domains
-- ✍️ I write code that learns and think about how to make machines think!
+- 🎓 Passionate about **Artificial Intelligence**, **Machine Learning**, **Generative AI Agents**, and **Computer Vision**  
+- 🛠 I love building end-to-end projects — from dataset collection and training models to real-world deployment  
+- 🌱 Currently exploring **LangChain**, **RAG**, and **AI agents**  
+- 📊 Enjoy working with research-backed tools and frameworks — especially in healthcare & automation domains  
+- ✍️ I write code that learns and think about how to make machines think!  
 
 ---
 
-## 🧠 AI/ML Projects
+## 🧠 Featured AI/ML Projects
 
-Here are some things I've been working on:
+Here are some of the exciting projects I've been working on:
 
-- 🔍 **Classification-Of-CIFAR10-Dataset**  
-  Trained a deep Convolutional Neural Network (CNN) on the CIFAR-10 image dataset, with support for custom image testing and performance evaluation. 
-  [View project →](https://https://github.com/BhargavBJ/Classification-Of-CIFAR10-Dataset)
+- 🔍 **[Classification-Of-CIFAR10-Dataset](https://github.com/BhargavBJ/Classification-Of-CIFAR10-Dataset)**  
+  Trained a deep Convolutional Neural Network (CNN) on the CIFAR-10 dataset, with custom image testing and performance evaluation.
+
+- 🎨 **[Custom Image Generator (0–9)](https://github.com/BhargavBJ/Custom-image-generator-from-0-to-9)**  
+  Built a Conditional GAN (cGAN) from scratch to generate handwritten digits (0–9) using the MNIST dataset. Supports conditional digit generation and GPU-accelerated training with PyTorch Lightning.
+
+- 🧬 **[Skin-Cancer Detection](https://github.com/BhargavBJ/Skin-Cancer)**  
+  Developed a CNN-based model for classifying pigmented skin lesions using the HAM10000 dataset. Useful for exploring medical AI and computer vision applications in healthcare.
+
+- 🐍 **[Snake Game](https://github.com/BhargavBJ/SnakeGame)**  
+  Classic Snake game implemented in HTML, CSS, and JavaScript. Includes score tracking and responsive controls.
+
+- 📚 **[LeetCode & DSA Solutions](https://github.com/BhargavBJ/LEET-CODE)**  
+  Curated collection of algorithm and data structure solutions for problem-solving practice, implemented in Python.
 
 - 🧬 **Coming Soon: Medical AI Assistant**  
-  Building a LacgChain + Groq API-based assistant for personalized healthcare management  
+  Building a LangChain + Groq API-based assistant for personalized healthcare management.  
   *(Features: patient data, reminders, recovery tracking, emergency alerting)*
 
 - 📚 **Research-focused AI Agents**  
-  Working on a reinforcement-learning agent with real-world task planning and dataset integration
+  Reinforcement-learning agent for real-world task planning and dataset integration.
 
 ---
+
 ## 🎯 Current Focus
-- 🏥 MedTech: LangFlow + Groq-powered assistant(or Gemini Powered Assistant)
-- 📈 Learning: Vector DBs, Chroma, LangGraph, PyTorch
+
+### 🏥 MedTech & Agentic AI
+Exploring **LangChain**, **Poetry**, and other agentic AI technologies to build intelligent assistants for healthcare, automation, and real-world problem-solving.
+
+### 📈 Learning & Exploration
+Diving deeper into **Deep Learning frameworks** like **PyTorch**, **Scikit-learn**, and **Keras** to strengthen AI/ML project development and research.
+
 
 ---
+
 ## 🚀 Tech Stack & Tools
 
 ```text
 Languages    : C, C++, Java, Python, SQL, Bash, Shell Scripts in Linux
 Frameworks   : PyTorch, TensorFlow, FastAPI, Flask
-AI/ML        : LangChain, PyTorch, Transformers, CNN's, Regression Models, Vector DB's
+AI/ML        : LangChain, PyTorch, Transformers, CNNs, Regression Models, Vector DBs
 Tools        : Git, Docker, Google Colab, Jupyter, Vercel, Cassandra
