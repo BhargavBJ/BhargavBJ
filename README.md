@@ -20,7 +20,7 @@
 Here are some of the exciting projects I've been working on:
 
 
-- ✨ **[Attention Is All You Need](https://github.com/BhargavBJ/Attention-Is-All-You-Need-PyTorch)**
+- ✨ **[Attention Is All You Need](https://github.com/BhargavBJ/Attention-Is-All-You-Need-PyTorch)** <br>
     From-scratch PyTorch implementation of “Attention Is All You Need” (Transformer, Vaswani et al. 2017)
 
 - 📚 **[Automate literature reviews](https://github.com/BhargavBJ/Automating-Literature-Review)**  
